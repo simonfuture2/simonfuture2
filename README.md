@@ -1,24 +1,48 @@
-- 👋 Hi, I’m @simonfuture2
-- 👀 I’m interested in web3 blockchain, solidity backend, digital asset security, wallet security, on-chain analytics, chart analysis, trading bots, and vault management.
-- 🌱 I am the founder of W3MCT, and we train Crypto Analysts for FREE, with the power of Token Metrics AI platform. Our 12-week program is a Workshop format, for hands-on interactive lessons, daily task, strategy implementation, and weekly goals. Each student are required to attend all workshops to recieve cetification of completion.
-- 12-week Workshops:
-- 1. C.I. Guide
-  2. Sales & Marketing
-  3. Prospecting Leads
-  4. Prompt Engineering
-  5. Content Creation
-  6. CRM Management
-  7. Negoiations
-  8. Rejections
-  9. Business Foundations
-  10. Team Building
-  11. Communication & Public Speaking
-  12. Value Add Solutions
-- Each week we have our Workshop and Task Assignments. Each day we will do a Consistency Call, Mid-Afternoon Session, and E.O.D Recap Call.
-- Apply to Join our Affiliate Team [](https://tokenmetrics.com/pricing/?ref=w3mct)-] [](https://affiliate.tokenmetrics.com/programs/token-metrics-astronaut-program/signup/?via=1607274)-])
-- 💞️ I’m looking to collaborate with other developers, content creators, YouTubers, AI, Engineers, Sales & Marketing reps, and founders. 
+# Welcome to My Web3 Development Journey — W3MCT Founder
+
+👋 Hi, I'm **Simon** — founder of **W3MCT** (Web3 Managed Consulting & Training) and passionate Web3 developer.  
+Here, you'll find a collection of my work in blockchain, smart contracts, DeFi, and decentralized applications (dApps).
+
+At **W3MCT**, our mission is simple:  
+**Empowering your journey through blockchain, smart contracts, and decentralized innovation.**
+
+I specialize in:
+- **Smart Contract Development** on Ethereum (Solidity) and Solana (Rust)
+- **Blockchain Consulting** for startups and enterprises
+- **Training and Workshops** to help individuals and teams master Web3 technologies
+- **Digital Asset Security** and decentralized application deployment
+- **Web3 Business Development**, NFT projects, and DAO setup
+- **Cybersecurity and Infrastructure Management** for blockchain systems
+
+🚀 **Web3 Learning eBook**  
+I recently published the *Web3 Learning* eBook — a beginner-friendly guide to understanding blockchain, crypto, NFTs, and building in the decentralized internet space.  
+👉 [Pre-order and get it FREE](https://w3mct.net)
+
+🏆 **Certifications**  
+Through platforms like [LearnWeb3.io](https://learnweb3.io), I’ve earned certifications and badges in:
+- DeFi Protocol Development
+- Smart Contract Security
+- DAO Creation and Governance
+- Advanced dApp Development
+
+---
+
+# How I Can Help You:
+- **Project Development**: Build your blockchain project from scratch or help you scale.
+- **Smart Contract Audits**: Review, audit, and optimize your Solidity and Rust smart contracts.
+- **Web3 Business Strategy**: Launch your NFT collection, DAO, or DeFi platform with a solid go-to-market plan.
+- **Education and Training**: Train your team or community on Web3 basics to advanced development.
+- **Revenue Strategy for Web3 Startups**: Build sustainable and scalable Web3 businesses, with a strong focus on monetization and growth.
+
+---
+
+**Let’s build the future of Web3 — together.**  
+Connect with me here or through [W3MCT.net](https://w3mct.net) 🌍
+
+- 🚀 Please subscribe to my YouTube Channel https://www.youtube.com/@W3MCT , @simonfuture2 - Follow me on IG, X, Github!
+- 💞️ I’m looking to collaborate with other developers, Engineers, and founders. 
 - 📫 How to reach me on discord simonfuture#2072 , twitter @simonfuture2 and Social Profiles.
-- Please subscribe to my YouTube Channel W3MCT, Follow me on IG, X, Github!
+
 
 Thank you for stopping by, leave a note, so I can stop by and show support on your profile page too. Looking forward to coding with you! 
 
